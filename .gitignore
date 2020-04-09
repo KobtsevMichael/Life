@@ -1,0 +1,9 @@
+# Byte-compiled / Optimized / DLL files
+__pycache__/
+
+# Packages
+main/packages/
+
+# Files for compile
+main/logo.ico
+main/setup.py
